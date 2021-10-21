@@ -3,7 +3,7 @@
 
  - Será desenvolvido uma aplicação de entrega de mercadorias (Uma aplicação de logistíca). Segue abaixo o diagrama de classes da aplicação:
 
-<img src="C:\wokspace\algalog-api\src\main\resources\images\diagrama-de-classes.png">
+<img src="https://github.com/rafaelofficial/algalog-api/blob/main/src/main/resources/images/diagrama-de-classes.png">
 
 
 ### Conteúdos da Semana Mergulho Spring REST:
