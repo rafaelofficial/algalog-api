@@ -19,3 +19,4 @@
 
 # Módulo #2:
  - Configurando o Flyway;
+ - Usando Jakarta Persistence (JPA);
