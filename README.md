@@ -23,3 +23,4 @@
  - Usando Jakarta Persistence (JPA);
  - Usando Spring Data JPA;
  - Implementando o CRUD de Cliente;
+ - Validando com Bean Validation;
