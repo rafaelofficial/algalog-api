@@ -24,3 +24,4 @@
  - Usando Spring Data JPA;
  - Implementando o CRUD de Cliente;
  - Validando com Bean Validation;
+ - Implementando Exception Handler;
