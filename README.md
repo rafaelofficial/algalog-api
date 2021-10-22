@@ -20,3 +20,4 @@
 # Módulo #2:
  - Configurando o Flyway;
  - Usando Jakarta Persistence (JPA);
+ - Usando Spring Data JPA;
