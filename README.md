@@ -1,7 +1,8 @@
 # Algalog-api
 #### Repositório com código-fonte das aulas da Semana Mergulho Spring REST ministrada pela AlgaWorks.
 
- - Será desenvolvido uma aplicação de entrega de mercadorias (Uma aplicação de logistíca). Segue abaixo o diagrama de classes da aplicação:
+ - Será desenvolvido uma API de uma aplicação de entrega de mercadorias (Uma aplicação de logistíca). 
+ - Segue abaixo o diagrama de classes da aplicação:
 
 <img src="https://github.com/rafaelofficial/algalog-api/blob/main/src/main/resources/images/diagrama-de-classes.png">
 
@@ -21,3 +22,4 @@
  - Configurando o Flyway;
  - Usando Jakarta Persistence (JPA);
  - Usando Spring Data JPA;
+ - Implementando o CRUD de Cliente;
