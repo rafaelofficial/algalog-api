@@ -26,3 +26,6 @@
  - Validando com Bean Validation;
  - Implementando Exception Handler;
  - Implementando Domain Services;
+
+# Módulo #3:
+ - Implementando solicitação de entrega;
