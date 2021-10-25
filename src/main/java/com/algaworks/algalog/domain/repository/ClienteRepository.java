@@ -5,6 +5,7 @@ import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
 import java.util.List;
+import java.util.Optional;
 
 @Repository
 public interface ClienteRepository extends JpaRepository<Cliente, Long> {
@@ -22,4 +23,6 @@ public interface ClienteRepository extends JpaRepository<Cliente, Long> {
      * @return : retorna caso contenha no banco de dados os mesmos dados informados da pesquisa (like)
      */
     List<Cliente> findByNomeContaining(String nome);
+
+    Optional<Cliente> findByEmail(String email);
 }

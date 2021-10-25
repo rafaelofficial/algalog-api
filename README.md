@@ -25,3 +25,4 @@
  - Implementando o CRUD de Cliente;
  - Validando com Bean Validation;
  - Implementando Exception Handler;
+ - Implementando Domain Services;
