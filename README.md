@@ -30,3 +30,6 @@
 # Módulo #3:
  - Implementando solicitação de entrega;
  - Validação em cascata e Validation Groups;
+ - Boas práticas para trabalhar com data hora;
+ - Isolando Domain Model Representation Model;
+ - Simplificando a transformação de objetos com ModelMapper;
